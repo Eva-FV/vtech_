@@ -1,0 +1,39 @@
+body{
+    
+    background-color: #a5bdaf;
+    
+}
+
+.navbar{
+    
+    background-color: #a5bdaf !important;
+}
+
+
+
+.card{
+    
+    background-color: #a5bdaf
+    
+}
+
+.affiche{
+    cursor: pointer;
+}
+
+.titre{
+    margin-top: 10%;
+    font-size: 97%;
+}
+
+.wrap{
+    position: relative;
+  }
+  .wrap a{
+    position: absolute;
+    width:100%;
+    height:100%;
+    top:0px;
+    left:0px;
+    
+  }

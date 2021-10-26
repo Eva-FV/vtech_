@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+
+.navbar{
+    font-family: 'Roboto Mono', monospace;
+    background-color: #a5bdaf !important;
+}
+
+.card{
+    
+    background-color: black
+    
+}
+
+.affiche{
+    position: absolute;
+    right: 550px;
+    top: 50px;
+}
+
+.titre{
+    color: white;
+}
+
+.trailer{
+    position: fixed;
+    left: 450px;
+    top: 300px;
+    
+}
+
+.tresume{
+    color: white;
+    
+}
+
+
+.resume{
+    color: white;
+
+}
+
